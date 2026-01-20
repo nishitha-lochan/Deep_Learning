@@ -64,10 +64,5 @@ This repository reflects a **concept-first, implementation-driven approach** to 
 
 ---
 
-## 👨‍💻 Author
 
-**Nishitha Lochan**
-Machine Learning & Deep Learning Enthusiast
-
----
 
