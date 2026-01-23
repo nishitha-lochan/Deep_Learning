@@ -1,4 +1,4 @@
-# 🧠 CIFAR-10 Image Classification using CNN (TensorFlow)
+# 🧠 CIFAR-10 Image Classification using CNN
 
 This project demonstrates image classification on the **CIFAR-10 dataset** using both **Artificial Neural Networks (ANN)** and **Convolutional Neural Networks (CNN)**. The results clearly show how CNN significantly outperforms traditional ANN for image-based tasks.
 
@@ -121,4 +121,5 @@ Through this project, I learned:
 * Deploy model using Streamlit
 
 ---
+
 
